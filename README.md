@@ -6,6 +6,12 @@
 </h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=intfxzen&show_icons=true&theme=tokyonight&width=100px)
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+
+</div>
+
 <img alt="IntFxZen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=intfxzen&langs_count=4&layout=compact&theme=tokyonight&bg_color=1F222E&title_color=70a5fd&icon_color=F8D866&border_color=e1dfe0&hide=Cmake,makefile" height="195px"/>
 
 <!--
