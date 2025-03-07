@@ -9,7 +9,7 @@
 
 
 <h3>🛠 Languages and Tools :</h3>
-<div>
+<p>
   <img src="https://img.icons8.com/?size=100&id=P2AnGyiJxMpp&format=png&color=000000" alt="Android" width="40" height="40"/>
   <img src="https://img.icons8.com/?size=100&id=EgOU93v1DHjU&format=png&color=000000" alt="Android Studio" width="40" height="40"/>
   <img src="https://img.icons8.com/?size=100&id=bN2IQyaCUVk5&format=png&color=000000" alt="Apple" width="40" height="40"/> 
@@ -22,7 +22,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" alt="СLion" width="40" height="40"/>
   <img src="https://img.icons8.com/?size=100&id=ZbBhBW0N2q3D&format=png&color=000000" alt="Fedora" width="40" height="40"/>
 
-</div>
+</p>
 
 <img alt="IntFxZen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=intfxzen&langs_count=4&layout=compact&theme=tokyonight&bg_color=1F222E&title_color=70a5fd&icon_color=F8D866&border_color=e1dfe0&hide=Cmake,makefile" height="195px"/>
 
