@@ -1,4 +1,11 @@
 ## Hi there 👋
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=intfxzen&show_icons=true&theme=tokyonight)  | <img alt="IntFxZen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=intfxzen&langs_count=4&layout=compact&theme=tokyonight&bg_color=1F222E&title_color=70a5fd&icon_color=F8D866&border_color=e1dfe0&hide=Cmake,makefile" height="195px"/>
+
+
+
 <h3 align="center"><a href="https://hud0shnik.github.io/">
    <img alt="IntFxZen" src="https://readme-typing-svg.herokuapp.com/?lines=Ilya+Blokhin;Flutter+mobile+developer&font=Fira%20Code&width=440&height=45&color=70a5fd&vCenter=true&size=25"></a>
 </h3>
