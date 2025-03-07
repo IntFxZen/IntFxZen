@@ -7,6 +7,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=intfxzen&show_icons=true&theme=tokyonight&width=100px)
 
+
+<h3>🛠 Languages and Tools :</h3>
 <div>
   <img src="https://img.icons8.com/?size=100&id=P2AnGyiJxMpp&format=png&color=000000" alt="Android" width="40" height="40"/>
   <img src="https://img.icons8.com/?size=100&id=EgOU93v1DHjU&format=png&color=000000" alt="Android Studio" width="40" height="40"/>
