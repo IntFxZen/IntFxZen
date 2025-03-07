@@ -6,7 +6,7 @@
 </h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=intfxzen&show_icons=true&theme=tokyonight&width=100px)
-<img alt="IntFxZen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=intfxzen&langs_count=4&layout=compact&theme=tokyonight&bg_color=1F222E&title_color=70a5fd&icon_color=F8D866&border_color=e1dfe0&hide=Cmake,makefile" height="195px" width="110px"/>
+<img alt="IntFxZen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=intfxzen&langs_count=4&layout=compact&theme=tokyonight&bg_color=1F222E&title_color=70a5fd&icon_color=F8D866&border_color=e1dfe0&hide=Cmake,makefile" height="195px" width="120px"/>
 
 <!--
 **IntFxZen/IntFxZen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
