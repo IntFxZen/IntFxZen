@@ -12,10 +12,10 @@
   <img src="https://img.icons8.com/?size=100&id=EgOU93v1DHjU&format=png&color=000000" alt="Android Studio" width="40" height="40"/>
   <img src="https://img.icons8.com/?size=100&id=7AFcZ2zirX6Y&format=png&color=000000" alt="Dart" width="40" height="40"/>
   <img src="https://img.icons8.com/?size=100&id=62452&format=png&color=000000" alt="Firebase" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" alt="XCode" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=7I3BjCqe9rjG&format=png&color=000000" alt="Flutter" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=gFw7X5Tbl3ss&format=png&color=000000" alt="Material UI" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="VS Code" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=51974&format=png&color=000000" alt="XCode" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" alt="СLion" width="40" height="40"/>
   <img src="https://img.icons8.com/?size=100&id=ZbBhBW0N2q3D&format=png&color=000000" alt="Fedora" width="40" height="40"/>
 
