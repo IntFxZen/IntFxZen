@@ -9,7 +9,7 @@
 
 <div>
   <img src="https://img.icons8.com/?size=100&id=P2AnGyiJxMpp&format=png&color=000000" alt="Android" width="40" height="40"/>
-   <img src="https://img.icons8.com/?size=100&id=30840&format=png&color=000000" alt="Apple" width="40" height="40"/>
+   <img src="https://img.icons8.com/?size=100&id=e9ne6HZHvrji&format=png&color=000000" alt="Apple" width="40" height="40"/>
   <img src="https://img.icons8.com/?size=100&id=EgOU93v1DHjU&format=png&color=000000" alt="Android Studio" width="40" height="40"/>
   <img src="https://img.icons8.com/?size=100&id=7AFcZ2zirX6Y&format=png&color=000000" alt="Dart" width="40" height="40"/>
   <img src="https://img.icons8.com/?size=100&id=62452&format=png&color=000000" alt="Firebase" width="40" height="40"/>
