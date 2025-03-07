@@ -1,4 +1,4 @@
-### Hi 👋, I'm
+### Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />, I'm
 
 
 <h3 align="center"><a href="https://hud0shnik.github.io/">
