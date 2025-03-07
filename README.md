@@ -5,7 +5,8 @@
    <img alt="IntFxZen" src="https://readme-typing-svg.herokuapp.com/?lines=Ilya+Blokhin;Flutter+mobile+developer&font=Fira%20Code&width=440&height=45&color=70a5fd&vCenter=true&size=25"></a>
 </h3>
 <h3>🔎 About me :</h3>
-- I am 18 years old and I am currently studying at university while also working as a mobile developer.
+   - I am 18 years old and I am currently studying at university while also working as a mobile developer.
+   - 🌱 I’m learning: **Backend, Linux, Cybersecurity**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=intfxzen&show_icons=true&theme=tokyonight&width=100px)
 
