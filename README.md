@@ -17,7 +17,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" alt="XCode" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" alt="СLion" width="40" height="40"/>
-  <img src="https://icons8.com/icon/ZbBhBW0N2q3D/fedora" alt="СLion" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=ZbBhBW0N2q3D&format=png&color=000000" alt="Fedora" width="40" height="40"/>
 
 </div>
 
