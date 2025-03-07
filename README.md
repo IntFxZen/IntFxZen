@@ -2,7 +2,7 @@
 
 
 <h3 align="center"><a href="https://hud0shnik.github.io/">
-   <img alt="IntFxZen" src="https://readme-typing-svg.herokuapp.com/?lines=Ilya+Blokhin;Flutter+mobile+developer&font=Fira%20Code&width=440&height=45&color=70a5fd&vCenter=true&size=25"></a>
+   <img alt="IntFxZen" src="https://readme-typing-svg.herokuapp.com/?lines=IntFxZen;Flutter+mobile+developer&font=Fira%20Code&width=440&height=45&color=70a5fd&vCenter=true&size=25"></a>
 </h3>
 <h3>🔎 About me :</h3>
 
