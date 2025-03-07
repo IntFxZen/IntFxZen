@@ -7,7 +7,7 @@
 <h3>🔎 About me :</h3>
 
    - 🔭 I'm 18 years old and I am currently studying at university while also working as a mobile developer.
-   - 🌱 I’m learning: **Backend, Linux, Cybersecurity**
+   - 🌱 I’m learning: **Flutter, Dart, Firebase**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=intfxzen&show_icons=true&theme=tokyonight&width=100px)
 
