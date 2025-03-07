@@ -11,7 +11,7 @@
 
 
 
-<h3>🛠 Languages and Tools :</h3>
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Keyboard.webp" alt="Keyboard" width="25" height="25" /> Languages and Tools :</h3>
 <p>
   <img src="https://img.icons8.com/?size=100&id=P2AnGyiJxMpp&format=png&color=000000" alt="Android" width="40" height="40"/>
   <img src="https://img.icons8.com/?size=100&id=EgOU93v1DHjU&format=png&color=000000" alt="Android Studio" width="40" height="40"/>
