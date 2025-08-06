@@ -6,7 +6,7 @@
 </h3>
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Magnifying%20Glass%20Tilted%20Left.webp" alt="Magnifying Glass Tilted Left" width="25" height="25" /> About me :</h3>
 
-   - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Telescope.webp" alt="Telescope" width="25" height="25" /> I'm 18 years old and I am currently studying at university while also working as a mobile developer.
+   - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Telescope.webp" alt="Telescope" width="25" height="25" /> I'm 19 years old and I am currently studying at university while also working as a mobile developer.
    - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="25" height="25" /> I’m learning: **Flutter, Dart, Firebase**
 
 
