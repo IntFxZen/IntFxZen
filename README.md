@@ -1,7 +1,7 @@
 ### Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="25" height="25" />, I'm
 
 
-<h3 align="center"><a href="https://hud0shnik.github.io/">
+<h3 align="center">
    <img alt="IntFxZen" src="https://readme-typing-svg.herokuapp.com/?lines=IntFxZen;Flutter+mobile+developer&font=Fira%20Code&width=440&height=45&color=70a5fd&vCenter=true&size=25"></a>
 </h3>
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Magnifying%20Glass%20Tilted%20Left.webp" alt="Magnifying Glass Tilted Left" width="25" height="25" /> About me :</h3>
