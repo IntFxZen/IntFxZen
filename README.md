@@ -33,7 +33,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=intfxzen&show_icons=true&theme=tokyonight&width=100px)
 <br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=intfxzen&theme=tokyonight&column=4&row=1&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophygh.kolioaris.xyz/?username=intfxzen&theme=tokyonight&column=4&row=1&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
