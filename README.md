@@ -26,6 +26,7 @@
   <img src="https://img.icons8.com/?size=100&id=ZbBhBW0N2q3D&format=png&color=000000" alt="Fedora" width="40" height="40"/>
 
 </p>
+<img src="https://skillicons.dev/icons?i=androidstudio, arch, cpp, clion, dart, firebase, flutter, vscode" alt="Основные технологии" height="40">
 
 <img alt="IntFxZen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=intfxzen&langs_count=4&layout=compact&theme=tokyonight&bg_color=1F222E&title_color=70a5fd&icon_color=F8D866&border_color=e1dfe0&hide=Cmake,makefile"  width="468px"/>
 
