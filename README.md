@@ -2,7 +2,7 @@
 
 
 <h3 align="center">
-   <img alt="IntFxZen" src="https://readme-typing-svg.herokuapp.com/?lines=IntFxZen;UNN Studentr&font=Fira%20Code&width=440&height=45&color=70a5fd&vCenter=true&size=25"></a>
+    <img alt="IntFxZen" src="https://readme-typing-svg.herokuapp.com/?lines=IntFxZen;UNN+Student&font=Fira%20Code&width=440&height=45&color=70a5fd&vCenter=true&size=25"></a>
 </h3>
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Magnifying%20Glass%20Tilted%20Left.webp" alt="Magnifying Glass Tilted Left" width="30" height="30" /> About me :</h3>
 
