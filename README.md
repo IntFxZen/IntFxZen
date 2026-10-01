@@ -11,7 +11,7 @@
     <img src="./mid2.svg" width="49.75%" alt="Current Focus" />
   </picture>
   
-  <a href="https://t.me/intfxzen" target="_blank">
+  <picture>
     <img src="./footer.svg" width="100%" alt="Footer and Contacts" />
-  </a>
+  </picture>picture>
 </div>
