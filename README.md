@@ -1,3 +1,13 @@
 <div align="center">
-  <picture><img src="./header.svg" width="100%" alt="Header" /></picture><picture><img src="./mid1.svg" width="49.75%" alt="Mobile Stack" /></picture><picture><img src="./mid2.svg" width="49.75%" alt="Current Focus" /></picture><picture><img src="./footer.svg" width="100%" alt="Footer and Contacts" /></picture>
+  <picture>
+    <img src="./header.svg" width="100%" alt="Header" />
+  </picture>
+  
+  <picture>
+    <img src="./Frame 12(1).svg" width="100%" alt="Middle Row" />
+  </picture>
+  
+  <picture>
+    <img src="./footer.svg" width="100%" alt="Footer and Contacts" />
+  </picture>
 </div>
